@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+jupyter
+plotly
+openpyxl
+xlrd
+xgboost
+lightgbm
+catboost
+torch
+torchvision
+torchaudio
